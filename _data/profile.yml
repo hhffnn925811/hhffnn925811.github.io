@@ -4,8 +4,8 @@ navbar_name: "Fangning Huo and Huyue"
 
 positions:
 - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: student in DUFE
-- name: student in DUFE
+  name: a student in DUFE
+- name: a student in DUFE
 
 
 email: "fangninghuo99@gmail.com"
@@ -37,11 +37,10 @@ education:
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     Department of Business and Management <br/>
-    Ph.D. Student
   date: Sep. 2019 - Jul. 2023
 - name: DUFE
   logo: /assets/images/badges/PKU_red.png
-  position: student in Finance Technology
+  position: a student in Finance Technology
   date: Sep. 2024 - present
 
 # experience:
