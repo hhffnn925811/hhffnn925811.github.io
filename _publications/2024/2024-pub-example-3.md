@@ -12,5 +12,4 @@ authors:
   - Huyue
 links:
   Code: https://github.com/huyue-163
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
