@@ -10,5 +10,5 @@ cover:          /assets/images/covers/cover1.jpg
 authors:
 - Fangning Huo*
 links:
-  Paper: https://www.cell.com
+  Paper: [https://github.com/hhffnn925811]
 ---
