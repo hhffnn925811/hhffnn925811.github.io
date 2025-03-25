@@ -4,8 +4,7 @@ navbar_name: "Fangning Huo and Huyue"
 
 positions:
 - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: a student in DUFE
-- name: a student in DUFE
+  name:Graduate Student at the School of FinTech, Dongbei University of Finance and Economics
 
 
 email: "fangninghuo99@gmail.com"
@@ -22,7 +21,7 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    My name is Huo Fangning, and I’m from Changchun, Jilin Province. Welcome to my homepage!
+    My name is Huo Fangning. I’m from Changchun, Jilin Province. Welcome to my homepage!
   </p>
   <p>
     I’m currently a graduate student at Dongbei University of Finance and Economics (DUFE), majoring in Financial Technology.
