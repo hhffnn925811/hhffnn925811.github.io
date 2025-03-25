@@ -1,17 +1,14 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
+title:          "Research on the Impact of Digital Transformation on Enterprise Innovation Performance: The Mediating Effect Based on Dynamic Capabilities"
 date:           2023-01-05 00:01:00 +0800
 selected:       true
 pub:            "Nature Communications"
 pub_date:       "2023"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+  This study explores the impact of digital transformation on enterprise innovation performance, emphasizing the mediating role of dynamic capabilities. Using empirical analysis, the research demonstrates how digital transformation enhances innovation by fostering adaptability, resource integration, and strategic flexibility within organizations.
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Fangning Huo*
 links:
   Paper: https://www.cell.com
 ---
